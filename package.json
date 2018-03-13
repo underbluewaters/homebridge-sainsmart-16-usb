@@ -23,6 +23,11 @@
   },
   "homepage": "https://github.com/underbluewaters/homebridge-sainsmart-16-usb#readme",
   "dependencies": {
+    "hap-nodejs": "^0.4.41",
     "sainsmart-16-hid": "^0.9.1"
+  },
+  "engines": {
+    "node": ">=8.0.0",
+    "homebridge": ">=0.4.5"
   }
 }
