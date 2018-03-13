@@ -13,7 +13,8 @@
   "keywords": [
     "homebridge",
     "relay",
-    "sainsmart"
+    "sainsmart",
+    "homebridge-plugin"
   ],
   "author": "Chad Burt",
   "license": "MIT",
