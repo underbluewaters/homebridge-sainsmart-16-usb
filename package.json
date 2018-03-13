@@ -1,0 +1,27 @@
+{
+  "name": "homebridge-sainsmart-16-usb",
+  "version": "1.0.0",
+  "description": "Control the sainsmart 16-relay usb board from homebridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underbluewaters/homebridge-sainsmart-16-usb.git"
+  },
+  "keywords": [
+    "homebridge",
+    "relay",
+    "sainsmart"
+  ],
+  "author": "Chad Burt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/underbluewaters/homebridge-sainsmart-16-usb/issues"
+  },
+  "homepage": "https://github.com/underbluewaters/homebridge-sainsmart-16-usb#readme",
+  "dependencies": {
+    "sainsmart-16-hid": "^0.9.1"
+  }
+}
